@@ -113,7 +113,7 @@ const SemDat = [
   },
   {
     id: 10,
-    title: 'Kost Pak Edy',
+    title: 'Kost Pak Edi',
     katagori: 'Kost',
     katagoriFas: 'Putra',
     kecamatan: 'Kediri Kota',
